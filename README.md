@@ -1,1 +1,1 @@
-# numerical-methods
+Second programming exercise in MATH II
